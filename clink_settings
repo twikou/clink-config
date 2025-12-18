@@ -1,0 +1,8 @@
+# name: A .clinkprompt file to use for the prompt
+# type: string
+clink.customprompt = D:\scoop\apps\clink\current\themes\oh-my-posh.clinkprompt
+
+# name: The oh-my-posh theme to use.
+# type: string
+ohmyposh.theme = D:\oh-my-posh\config.json
+
