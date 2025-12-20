@@ -5,4 +5,5 @@
 @doskey vim=nvim $*
 @doskey vi=nvim $*
 @doskey e=explorer $*
+@doskey sudo=sudo -E -D=. wt /d %cd% cmd /c "$*"
 @cls
